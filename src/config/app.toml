@@ -1,0 +1,50 @@
+[server]
+http_host = "127.0.0.1:8080"
+https_host = "127.0.0.1:8443"
+https_cert_file = ["key.pem","cert.pem"] ## 证书和公钥须存放在 src/config/ 目录下
+
+[logger]
+# trace, debug, info, warn, error
+actix_web = "debug"
+actix_redis = "info"
+
+[redis]
+# redis://:test999@host:port/db , The URL format is redis://[:<passwd>@]<hostname>[:port][/<db>]
+host = ["redis://:test999@127.0.0.1:6379/"]
+# host = ["redis://127.0.0.1:7000/", "redis://127.0.0.1:7001/", "redis://127.0.0.1:7002/", "redis://127.0.0.1:7003/", "redis://127.0.0.1:7004/", "redis://127.0.0.1:7005/"]
+pool_max_size = 5
+
+# 设置连接超时时间，单位:毫秒，默认 250 毫秒
+connection_timeout = 250
+
+
+[mysql]
+# mysql://[user[:password]@]host/database_name
+url = "mysql://root:1234@1234@127.0.0.1/test"
+pool_max_size = 10
+
+[cors]
+# Cross-origin resource sharing (CORS) for Actix applications
+
+# 是否开启，true 将用下面的自定义字段值，false 则用默认值
+check_cross_origin = false
+
+# Domain 
+origin = "http://localhost:8080/" 
+
+# Defaults to `[GET, HEAD, POST, OPTIONS, PUT, PATCH, DELETE]`
+methods = ["GET", "POST"]
+
+# Set a maximum time for which this CORS request maybe cached. This defaults to `None` (unset).
+max_age = 3600
+
+[i18n]
+directory = "src/config/locale"
+locales = ["en", "zh-CN"]
+
+# 设置默认语言，如果没有设置，则自动检测客户端语言，客户端语言需在 locales 里
+default_lang = "en"
+
+
+
+
