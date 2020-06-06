@@ -1,2 +1,226 @@
-
-
+ 2020-06-02 22:16:46 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-02 22:16:46 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-02 22:16:46 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+ 2020-06-02 22:17:10 INFO actix_server::builder:329 - SIGTERM received, stopping
+d33f96bb-984c-4982-a59b-7ab2ea524f18 2020-06-02 22:17:10 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+d33f96bb-984c-4982-a59b-7ab2ea524f18 2020-06-02 22:17:10 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+d33f96bb-984c-4982-a59b-7ab2ea524f18 2020-06-02 22:17:10 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+d33f96bb-984c-4982-a59b-7ab2ea524f18 2020-06-02 22:17:10 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+ 2020-06-02 22:17:10 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-02 22:17:10 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-02 22:17:10 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+ 2020-06-02 22:20:43 INFO actix_server::builder:321 - SIGINT received, exiting
+ 2020-06-04 22:06:35 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-04 22:06:35 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-04 22:06:35 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+ 2020-06-04 22:07:07 INFO actix_server::builder:329 - SIGTERM received, stopping
+502e74a2-6b98-4df7-a06e-43ff299d57b5 2020-06-04 22:07:07 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+502e74a2-6b98-4df7-a06e-43ff299d57b5 2020-06-04 22:07:07 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+502e74a2-6b98-4df7-a06e-43ff299d57b5 2020-06-04 22:07:07 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+502e74a2-6b98-4df7-a06e-43ff299d57b5 2020-06-04 22:07:07 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+ 2020-06-04 22:07:07 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-04 22:07:44 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-04 22:07:44 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-04 22:07:44 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+ 2020-06-04 22:07:53 INFO actix_server::builder:329 - SIGTERM received, stopping
+3ffad255-84a4-4f09-8ef6-1099905bacdd 2020-06-04 22:07:53 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+3ffad255-84a4-4f09-8ef6-1099905bacdd 2020-06-04 22:07:53 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+3ffad255-84a4-4f09-8ef6-1099905bacdd 2020-06-04 22:07:53 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+3ffad255-84a4-4f09-8ef6-1099905bacdd 2020-06-04 22:07:53 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+ 2020-06-04 22:07:54 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-04 22:07:54 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-04 22:07:54 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+ 2020-06-04 22:08:37 INFO actix_server::builder:321 - SIGINT received, exiting
+ 2020-06-04 22:08:54 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-04 22:08:54 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-04 22:08:54 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+ 2020-06-04 22:10:28 INFO actix_server::builder:321 - SIGINT received, exiting
+ 2020-06-04 22:10:52 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-04 22:10:52 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-04 22:10:52 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+ 2020-06-04 22:11:42 INFO actix_server::builder:321 - SIGINT received, exiting
+ 2020-06-04 22:14:28 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-04 22:14:29 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-04 22:14:29 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+ 2020-06-04 22:14:32 INFO actix_server::builder:321 - SIGINT received, exiting
+ 2020-06-04 22:23:56 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-04 22:23:56 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-04 22:23:56 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+ 2020-06-04 22:24:03 INFO actix_server::builder:329 - SIGTERM received, stopping
+7b7a86a0-f653-4615-9a03-81ba97575e9c 2020-06-04 22:24:03 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+7b7a86a0-f653-4615-9a03-81ba97575e9c 2020-06-04 22:24:03 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+7b7a86a0-f653-4615-9a03-81ba97575e9c 2020-06-04 22:24:03 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+7b7a86a0-f653-4615-9a03-81ba97575e9c 2020-06-04 22:24:03 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+ 2020-06-04 22:24:04 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-04 22:24:04 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-04 22:24:04 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+ 2020-06-04 22:24:31 INFO actix_server::builder:321 - SIGINT received, exiting
+ 2020-06-06 13:41:56 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-06 13:41:56 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-06 13:41:57 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-06 13:41:57 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+ 2020-06-06 13:41:57 INFO actix_server::builder:329 - SIGTERM received, stopping
+7c51eb08-3725-44c9-9ec7-d98ca3226804 2020-06-06 13:41:57 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+7c51eb08-3725-44c9-9ec7-d98ca3226804 2020-06-06 13:41:57 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+7c51eb08-3725-44c9-9ec7-d98ca3226804 2020-06-06 13:41:57 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+7c51eb08-3725-44c9-9ec7-d98ca3226804 2020-06-06 13:41:57 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+ 2020-06-06 13:41:57 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-06 13:41:57 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-06 13:41:57 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+ 2020-06-06 13:41:57 INFO actix_server::builder:329 - SIGTERM received, stopping
+f3aa7175-bf15-4a57-9342-58d9fa687d68 2020-06-06 13:41:57 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+f3aa7175-bf15-4a57-9342-58d9fa687d68 2020-06-06 13:41:57 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+f3aa7175-bf15-4a57-9342-58d9fa687d68 2020-06-06 13:41:57 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+f3aa7175-bf15-4a57-9342-58d9fa687d68 2020-06-06 13:41:57 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+ 2020-06-06 13:41:58 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-06 13:41:58 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-06 13:41:58 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+ 2020-06-06 13:41:58 INFO actix_server::builder:329 - SIGTERM received, stopping
+a148a96f-e955-4bff-9839-05b4bc05ca8f 2020-06-06 13:41:58 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+a148a96f-e955-4bff-9839-05b4bc05ca8f 2020-06-06 13:41:58 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+a148a96f-e955-4bff-9839-05b4bc05ca8f 2020-06-06 13:41:58 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+a148a96f-e955-4bff-9839-05b4bc05ca8f 2020-06-06 13:41:58 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+ 2020-06-06 13:41:59 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-06 13:41:59 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-06 13:41:59 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+ 2020-06-06 13:41:59 INFO actix_server::builder:329 - SIGTERM received, stopping
+cf7c59a8-f606-4144-804a-d48d42882036 2020-06-06 13:41:59 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+cf7c59a8-f606-4144-804a-d48d42882036 2020-06-06 13:41:59 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+cf7c59a8-f606-4144-804a-d48d42882036 2020-06-06 13:41:59 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+cf7c59a8-f606-4144-804a-d48d42882036 2020-06-06 13:41:59 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+ 2020-06-06 13:41:59 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-06 13:41:59 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-06 13:41:59 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+ 2020-06-06 13:41:59 INFO actix_server::builder:329 - SIGTERM received, stopping
+0cd9c588-dbb0-4ef9-863c-62016688818a 2020-06-06 13:41:59 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+0cd9c588-dbb0-4ef9-863c-62016688818a 2020-06-06 13:41:59 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+0cd9c588-dbb0-4ef9-863c-62016688818a 2020-06-06 13:41:59 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+0cd9c588-dbb0-4ef9-863c-62016688818a 2020-06-06 13:41:59 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+ 2020-06-06 13:46:14 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-06 13:46:14 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-06 13:46:14 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+ 2020-06-06 13:46:15 INFO actix_server::builder:329 - SIGTERM received, stopping
+82edb985-ec47-4b52-9b09-4d0325ad9e96 2020-06-06 13:46:15 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+82edb985-ec47-4b52-9b09-4d0325ad9e96 2020-06-06 13:46:15 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+82edb985-ec47-4b52-9b09-4d0325ad9e96 2020-06-06 13:46:15 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+82edb985-ec47-4b52-9b09-4d0325ad9e96 2020-06-06 13:46:15 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+ 2020-06-06 13:46:15 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-06 13:46:15 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-06 13:46:15 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+ 2020-06-06 13:46:15 INFO actix_server::builder:329 - SIGTERM received, stopping
+e037be1f-9874-477f-b169-d4b46112cd7e 2020-06-06 13:46:15 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+e037be1f-9874-477f-b169-d4b46112cd7e 2020-06-06 13:46:15 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+e037be1f-9874-477f-b169-d4b46112cd7e 2020-06-06 13:46:15 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+e037be1f-9874-477f-b169-d4b46112cd7e 2020-06-06 13:46:15 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+ 2020-06-06 13:46:16 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-06 13:46:16 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-06 13:46:16 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+ 2020-06-06 13:46:16 INFO actix_server::builder:329 - SIGTERM received, stopping
+06956c10-4c95-4819-9ce2-3996af35aa28 2020-06-06 13:46:16 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+06956c10-4c95-4819-9ce2-3996af35aa28 2020-06-06 13:46:16 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+06956c10-4c95-4819-9ce2-3996af35aa28 2020-06-06 13:46:16 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+06956c10-4c95-4819-9ce2-3996af35aa28 2020-06-06 13:46:16 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+ 2020-06-06 13:46:16 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-06 13:46:16 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-06 13:46:16 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+ 2020-06-06 13:46:17 INFO actix_server::builder:329 - SIGTERM received, stopping
+c824009a-51a1-48c6-b337-cfc7f516e636 2020-06-06 13:46:17 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+c824009a-51a1-48c6-b337-cfc7f516e636 2020-06-06 13:46:17 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+c824009a-51a1-48c6-b337-cfc7f516e636 2020-06-06 13:46:17 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+c824009a-51a1-48c6-b337-cfc7f516e636 2020-06-06 13:46:17 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+ 2020-06-06 13:46:17 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-06 13:46:17 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-06 13:46:17 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+ 2020-06-06 13:46:17 INFO actix_server::builder:329 - SIGTERM received, stopping
+9d05cc72-3a14-48e2-8db9-62391ca74174 2020-06-06 13:46:17 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+9d05cc72-3a14-48e2-8db9-62391ca74174 2020-06-06 13:46:17 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+9d05cc72-3a14-48e2-8db9-62391ca74174 2020-06-06 13:46:17 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+9d05cc72-3a14-48e2-8db9-62391ca74174 2020-06-06 13:46:17 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+ 2020-06-06 13:46:18 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-06 13:46:18 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-06 13:46:18 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+ 2020-06-06 13:46:18 INFO actix_server::builder:329 - SIGTERM received, stopping
+132c16f4-9b9e-495d-b35f-6988a7adffee 2020-06-06 13:46:18 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+132c16f4-9b9e-495d-b35f-6988a7adffee 2020-06-06 13:46:18 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+132c16f4-9b9e-495d-b35f-6988a7adffee 2020-06-06 13:46:18 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+132c16f4-9b9e-495d-b35f-6988a7adffee 2020-06-06 13:46:18 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+ 2020-06-06 13:46:18 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-06 13:46:19 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-06 13:46:19 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+ 2020-06-06 13:46:19 INFO actix_server::builder:329 - SIGTERM received, stopping
+86fe480f-246c-4622-8f7b-d082e0422238 2020-06-06 13:46:19 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+86fe480f-246c-4622-8f7b-d082e0422238 2020-06-06 13:46:19 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+86fe480f-246c-4622-8f7b-d082e0422238 2020-06-06 13:46:19 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+86fe480f-246c-4622-8f7b-d082e0422238 2020-06-06 13:46:19 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+ 2020-06-06 13:47:53 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-06 13:47:53 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-06 13:47:53 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+ 2020-06-06 13:48:19 INFO actix_server::builder:329 - SIGTERM received, stopping
+04a7cc88-92ac-4f4d-bd96-9de82a8c0757 2020-06-06 13:48:19 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+04a7cc88-92ac-4f4d-bd96-9de82a8c0757 2020-06-06 13:48:19 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+04a7cc88-92ac-4f4d-bd96-9de82a8c0757 2020-06-06 13:48:19 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+04a7cc88-92ac-4f4d-bd96-9de82a8c0757 2020-06-06 13:48:19 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+ 2020-06-06 13:48:20 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-06 13:48:20 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-06 13:48:20 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+e72f9c22-5416-4619-b691-9060641ae957 2020-06-06 13:48:38 INFO actix_web::middleware::logger:271 - 127.0.0.1:60588 "GET /test_yew.html HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" 11.193000
+e72f9c22-5416-4619-b691-9060641ae957 2020-06-06 13:48:38 INFO actix_web::middleware::logger:271 - 127.0.0.1:60588 "GET /js/bundle.js HTTP/1.1" 200 15311 "http://localhost:8080/test_yew.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" 20.469000
+e72f9c22-5416-4619-b691-9060641ae957 2020-06-06 13:48:38 INFO actix_web::middleware::logger:271 - 127.0.0.1:60588 "GET /pkg/crab_bg.wasm HTTP/1.1" 200 74235 "http://localhost:8080/test_yew.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" 2.694000
+ 2020-06-06 13:48:49 INFO actix_server::builder:329 - SIGTERM received, stopping
+e72f9c22-5416-4619-b691-9060641ae957 2020-06-06 13:48:49 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+e72f9c22-5416-4619-b691-9060641ae957 2020-06-06 13:48:49 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+e72f9c22-5416-4619-b691-9060641ae957 2020-06-06 13:48:49 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+e72f9c22-5416-4619-b691-9060641ae957 2020-06-06 13:48:49 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+ 2020-06-06 13:48:50 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-06 13:48:50 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-06 13:48:50 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+ae2c19a8-1249-4cdc-ba8b-e9f1b946408f 2020-06-06 13:48:56 INFO actix_web::middleware::logger:271 - 127.0.0.1:60624 "GET /test_yew.html HTTP/1.1" 200 286 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" 3.011000
+ae2c19a8-1249-4cdc-ba8b-e9f1b946408f 2020-06-06 13:48:56 INFO actix_web::middleware::logger:271 - 127.0.0.1:60624 "GET /js/bundle.js HTTP/1.1" 200 15311 "http://localhost:8080/test_yew.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" 1.802000
+ae2c19a8-1249-4cdc-ba8b-e9f1b946408f 2020-06-06 13:48:56 INFO actix_web::middleware::logger:271 - 127.0.0.1:60624 "GET /pkg/crab_bg.wasm HTTP/1.1" 200 74235 "http://localhost:8080/test_yew.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" 3.810000
+ae2c19a8-1249-4cdc-ba8b-e9f1b946408f 2020-06-06 13:48:56 INFO actix_web::middleware::logger:271 - 127.0.0.1:60624 "GET /images/favicon.ico HTTP/1.1" 200 15086 "http://localhost:8080/test_yew.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" 1.888000
+ae2c19a8-1249-4cdc-ba8b-e9f1b946408f 2020-06-06 13:48:58 INFO actix_web::middleware::logger:271 - 127.0.0.1:60624 "GET /test_yew.html HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" 1.084000
+ae2c19a8-1249-4cdc-ba8b-e9f1b946408f 2020-06-06 13:48:58 INFO actix_web::middleware::logger:271 - 127.0.0.1:60624 "GET /js/bundle.js HTTP/1.1" 304 0 "http://localhost:8080/test_yew.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" 0.904000
+ae2c19a8-1249-4cdc-ba8b-e9f1b946408f 2020-06-06 13:48:58 INFO actix_web::middleware::logger:271 - 127.0.0.1:60624 "GET /images/favicon.ico HTTP/1.1" 200 15086 "http://localhost:8080/test_yew.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" 1.008000
+ae2c19a8-1249-4cdc-ba8b-e9f1b946408f 2020-06-06 13:48:59 INFO actix_web::middleware::logger:271 - 127.0.0.1:60624 "GET /test_yew.html HTTP/1.1" 200 286 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" 1.062000
+ae2c19a8-1249-4cdc-ba8b-e9f1b946408f 2020-06-06 13:48:59 INFO actix_web::middleware::logger:271 - 127.0.0.1:60624 "GET /js/bundle.js HTTP/1.1" 200 15311 "http://localhost:8080/test_yew.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" 1.622000
+ae2c19a8-1249-4cdc-ba8b-e9f1b946408f 2020-06-06 13:48:59 INFO actix_web::middleware::logger:271 - 127.0.0.1:60624 "GET /pkg/crab_bg.wasm HTTP/1.1" 200 74235 "http://localhost:8080/test_yew.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" 3.290000
+ae2c19a8-1249-4cdc-ba8b-e9f1b946408f 2020-06-06 13:48:59 INFO actix_web::middleware::logger:271 - 127.0.0.1:60626 "GET /images/favicon.ico HTTP/1.1" 200 15086 "http://localhost:8080/test_yew.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" 4.950000
+ 2020-06-06 13:54:32 INFO actix_server::builder:321 - SIGINT received, exiting
+ 2020-06-06 13:59:16 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-06 13:59:16 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-06 13:59:16 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+0ace7144-f86f-4f4c-82f7-cc6f7561491d 2020-06-06 13:59:19 INFO actix_web::middleware::logger:271 - 127.0.0.1:61106 "GET /test_yew.html HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" 5.889000
+0ace7144-f86f-4f4c-82f7-cc6f7561491d 2020-06-06 13:59:19 INFO actix_web::middleware::logger:271 - 127.0.0.1:61106 "GET /js/bundle.js HTTP/1.1" 200 15311 "http://localhost:8080/test_yew.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" 15.546000
+0ace7144-f86f-4f4c-82f7-cc6f7561491d 2020-06-06 13:59:19 INFO actix_web::middleware::logger:271 - 127.0.0.1:61106 "GET /images/favicon.ico HTTP/1.1" 200 15086 "http://localhost:8080/test_yew.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" 1.179000
+0ace7144-f86f-4f4c-82f7-cc6f7561491d 2020-06-06 13:59:21 INFO actix_web::middleware::logger:271 - 127.0.0.1:61106 "GET /test_yew.html HTTP/1.1" 200 286 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" 1.689000
+0ace7144-f86f-4f4c-82f7-cc6f7561491d 2020-06-06 13:59:21 INFO actix_web::middleware::logger:271 - 127.0.0.1:61106 "GET /js/bundle.js HTTP/1.1" 200 15311 "http://localhost:8080/test_yew.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" 2.064000
+0ace7144-f86f-4f4c-82f7-cc6f7561491d 2020-06-06 13:59:21 INFO actix_web::middleware::logger:271 - 127.0.0.1:61106 "GET /pkg/crab_bg.wasm HTTP/1.1" 200 74247 "http://localhost:8080/test_yew.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" 5.064000
+0ace7144-f86f-4f4c-82f7-cc6f7561491d 2020-06-06 13:59:21 INFO actix_web::middleware::logger:271 - 127.0.0.1:61108 "GET /images/favicon.ico HTTP/1.1" 200 15086 "http://localhost:8080/test_yew.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" 3.369000
+ 2020-06-06 13:59:25 INFO actix_server::builder:321 - SIGINT received, exiting
+ 2020-06-06 14:00:41 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-06 14:00:41 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-06 14:00:41 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+ 2020-06-06 14:00:56 INFO actix_server::builder:329 - SIGTERM received, stopping
+a235395c-744c-4878-95b9-aa2676834c68 2020-06-06 14:00:56 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+a235395c-744c-4878-95b9-aa2676834c68 2020-06-06 14:00:56 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+a235395c-744c-4878-95b9-aa2676834c68 2020-06-06 14:00:56 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+a235395c-744c-4878-95b9-aa2676834c68 2020-06-06 14:00:56 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+ 2020-06-06 14:00:59 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-06 14:00:59 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-06 14:00:59 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+17c44364-7742-47cf-91ec-50a00f689113 2020-06-06 14:01:03 INFO actix_web::middleware::logger:271 - 127.0.0.1:61158 "GET /test_yew.html HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" 5.620000
+17c44364-7742-47cf-91ec-50a00f689113 2020-06-06 14:01:03 INFO actix_web::middleware::logger:271 - 127.0.0.1:61158 "GET /js/bundle.js HTTP/1.1" 200 15311 "http://localhost:8080/test_yew.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" 3.039000
+17c44364-7742-47cf-91ec-50a00f689113 2020-06-06 14:01:03 INFO actix_web::middleware::logger:271 - 127.0.0.1:61158 "GET /pkg/crab_bg.wasm HTTP/1.1" 200 74247 "http://localhost:8080/test_yew.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" 2.236000
+17c44364-7742-47cf-91ec-50a00f689113 2020-06-06 14:01:03 INFO actix_web::middleware::logger:271 - 127.0.0.1:61158 "GET /images/favicon.ico HTTP/1.1" 200 15086 "http://localhost:8080/test_yew.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" 2.497000
+ 2020-06-06 14:07:14 INFO actix_server::builder:321 - SIGINT received, exiting
+ 2020-06-06 14:07:18 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-06 14:07:18 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-06 14:07:18 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080
+ 2020-06-06 14:07:47 INFO actix_server::builder:329 - SIGTERM received, stopping
+a8669496-6a89-4b17-bfab-4d531e24996d 2020-06-06 14:07:47 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+a8669496-6a89-4b17-bfab-4d531e24996d 2020-06-06 14:07:47 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+a8669496-6a89-4b17-bfab-4d531e24996d 2020-06-06 14:07:47 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+a8669496-6a89-4b17-bfab-4d531e24996d 2020-06-06 14:07:47 INFO actix_server::worker:328 - Shutting down worker, 0 connections
+ 2020-06-06 14:07:50 INFO crab::core::util:84 - log4rs initialized.
+ 2020-06-06 14:07:50 INFO actix_server::builder:262 - Starting 4 workers
+ 2020-06-06 14:07:50 INFO actix_server::builder:276 - Starting "actix-web-service-127.0.0.1:8080" service on 127.0.0.1:8080

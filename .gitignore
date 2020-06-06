@@ -2,3 +2,9 @@ target
 Cargo.lock
 .history
 log/
+pkg
+*.log
+log
+src/view/pkg
+src/view/target
+src/view/Cargo.lock
