@@ -26,7 +26,7 @@
 框架图：
 ```
 //
-// Rust wasm             Rust app server(mvc-rs)
+// Rust wasm             Rust app server(crab)
 // in browser <- REST -> |-------------------------------------|
 //                       | HTTP Server -- actix-web            |
 //  |                    |     |                               |
@@ -49,7 +49,7 @@ crab
         |- test_yew.html
         |- js/
             |- main.js          // 前端脚本源码
-    |- src/                     // 云端后端服务
+    |- src/                     // 后端代码目录
         |- config/
             |- locale/          // 本地化多国语言配置
                 |- en.json
@@ -68,12 +68,12 @@ crab
         |- models/              // 业务数据层，负责业务数据访问封装
             |- post.rs
             |- schema.rs
-        |- view/                // 视图层，负责前端页面渲染处理，前端也采用rust开发
+        |- view/                // 视图层，负责前端页面渲染处理，前端也采用rust开发，前后端都用rust开发，香！
             |- lib.rs           // 前端业务代码入口
             |- app.rs           // 前端业务模块代码
             |- Cargo.toml       // 前端业务的编译配置，执行 wasm-pack build 后会产出 pkg和target 两个目录和相关js和wasm文件
         |- lib.rs
-        |- main.rs              // 入口
+        |- main.rs              // app server 入口
     |- Cargo.toml               // 项目配置
     |- log4rs.yaml              // log 配置
     |- rollup.config.js         // rollup 前端打包配置
