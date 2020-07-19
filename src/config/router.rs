@@ -13,7 +13,9 @@ pub fn routes(app: &mut web::ServiceConfig) {
     .service(fs::Files::new("/js", "assets/js/").show_files_listing())
     // URL:/pkg ，访问 assets/pkg/ 目录
     .service(fs::Files::new("/pkg", "assets/pkg/").show_files_listing())
-    // static files , URL: /ws.html, 访问 static/ 目录
+     // URL:/css ，访问 assets/css/ 目录
+     .service(fs::Files::new("/css", "assets/css/").show_files_listing())
+    // static files , URL: /test_yew.html, 访问 static/ 目录
     .service(fs::Files::new("/", "static/").index_file("hi.html"))
     .service(fs::Files::new("/", "static/").index_file("test_yew.html"))
     // .service(
